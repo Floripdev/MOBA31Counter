@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Dennis/Desktop/AI/Mobile Anwendungen/Schwimmen app/Testo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba691698ab3d571bad0d2146d31f70af49847ef0">
+        <dex dex="/Users/Dennis/Desktop/AI/Mobile Anwendungen/Schwimmen app/Testo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a514e21d406a96f936df583ba48ab4cdd0c22ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dennis/Desktop/AI/Mobile Anwendungen/Schwimmen app/Testo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Dennis/Desktop/AI/Mobile Anwendungen/Schwimmen app/Testo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d28156a838945a402ab3f7906d02bff7ae29223/classes.dex" />
+    </item>
+
+</items>
